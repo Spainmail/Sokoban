@@ -1,0 +1,5 @@
+C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner.dir
+C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir
+C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_common.dir
+C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/edit_cache.dir
+C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/rebuild_cache.dir

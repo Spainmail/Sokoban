@@ -1,0 +1,15 @@
+# ninja log v7
+23	109	8101461602853301	CMakeFiles/Heartburner_common.dir/src/arena.cpp.obj	e04ed6659a89aa3a
+39	129	8101461603007211	CMakeFiles/Heartburner_game.dir/src/arena.cpp.obj	bafe235a114ce1cc
+92	549	8101461603539915	CMakeFiles/Heartburner_game.dir/src/rendering.cpp.obj	746fff1f05c33f31
+54	556	8101461603158400	CMakeFiles/Heartburner_game.dir/src/game.cpp.obj	fe5ff60a7c434c85
+72	575	8101461603341934	CMakeFiles/Heartburner_game.dir/src/levelRenderer.cpp.obj	accf8d6c23183db3
+63	675	8101461603243728	CMakeFiles/Heartburner_game.dir/src/image.cpp.obj	bf245f408c993a5f
+14	716	8101461602759172	CMakeFiles/Heartburner_common.dir/src/image.cpp.obj	436b575cdfc6cff3
+719	814	8101461609804655	Heartburner_common.lib	bd774d80f8a5248
+46	880	8101461603077132	CMakeFiles/Heartburner_game.dir/src/bomb.cpp.obj	2687552017e10c2b
+31	1101	8101461602930299	CMakeFiles/Heartburner.dir/src/main.cpp.obj	a55e6ad0b593e9f7
+1102	1338	8101461613637309	Heartburner.exe	5254cef4bbe28245
+81	1632	8101461603434174	CMakeFiles/Heartburner_game.dir/src/levels.cpp.obj	2db3a0f989ede5ac
+1633	1782	8101461620005812	Heartburner_game.dll	70b5e02089bdf7c9
+1633	1782	8101461620005812	Heartburner_game.lib	70b5e02089bdf7c9

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner.dir\\src\\main.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\main.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/main.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\arena.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\arena.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/arena.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/arena.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\bomb.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\bomb.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/bomb.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/bomb.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\game.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\game.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/game.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/game.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\image.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\image.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/image.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/image.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\levelRenderer.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\levelRenderer.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/levelRenderer.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/levelRenderer.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\levels.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\levels.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/levels.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/levels.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -DHeartburner_game_EXPORTS -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_game.dir\\src\\rendering.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\rendering.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/rendering.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_game.dir/src/rendering.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_common.dir\\src\\image.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\image.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/image.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_common.dir/src/image.cpp.obj"
+},
+{
+  "directory": "C:/GP25/CPlusPlus/Projects/Sokoban/build",
+  "command": "\"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\Llvm\\x64\\bin\\clang++.exe\" -IC:/GP25/CPlusPlus/Projects/Sokoban/include -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\Heartburner_common.dir\\src\\arena.cpp.obj -c C:\\GP25\\CPlusPlus\\Projects\\Sokoban\\src\\arena.cpp",
+  "file": "C:/GP25/CPlusPlus/Projects/Sokoban/src/arena.cpp",
+  "output": "C:/GP25/CPlusPlus/Projects/Sokoban/build/CMakeFiles/Heartburner_common.dir/src/arena.cpp.obj"
+}
+]
